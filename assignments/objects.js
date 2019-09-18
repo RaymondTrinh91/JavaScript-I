@@ -56,18 +56,12 @@ const intern5 = {
   email: "adaine5@samsung.com",
   gender: "F",
 
-  const intern5 = {
-    id: 5,
-    name: "Antonietta",
-    email: "adaine5@samsung.com",
-    gender: "F",
-  
-   multiplyNums(num1,num2){
-       return num1 * num2;
-   }
-}
+  multiplyNums(num1,num2){
+      return num1 * num2;
   }
 }
+
+
 // ==== Challenge 2: Reading Object Data ==== 
 // Once your objects are created, log out the following requests from HR into the console:
 
